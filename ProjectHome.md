@@ -1,0 +1,1 @@
+Life is a simple simulation of cell automata.
